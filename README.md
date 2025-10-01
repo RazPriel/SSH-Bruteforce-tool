@@ -23,8 +23,8 @@ pip install paramiko
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/ssh-bruteforce-demo.git
-cd ssh-bruteforce-demo
+git clone https://github.com/RazPriel/SSH-Bruteforce-tool.git SSHBruteForce
+cd SSHBruteForce
 ```
 
 2. Prepare a wordlist file containing passwords to try (e.g. `passwords.txt`).
